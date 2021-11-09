@@ -96,6 +96,7 @@ Store,Product,Date,Sales USD,Sales Qty
 1003,UPC4-Description-4,Latest Week Ending 2021-10-12,0.98,1
 1003,UPC5-Description-0,Latest Week Ending 2021-11-09,0.6000000000000001,3
 1003,UPC5-Description-0,Latest Week Ending 2021-11-02,0.2,1
+1003,UPC5-Description-0,Latest Week Ending 2021-11-02,0.4,2
 1003,UPC5-Description-0,Latest Week Ending 2021-10-26,0.2,1
 1003,UPC5-Description-0,Latest Week Ending 2021-10-19,0.6000000000000001,3
 1003,UPC5-Description-0,Latest Week Ending 2021-10-12,0.6000000000000001,3
@@ -212,6 +213,7 @@ Store,Product,Date,Sales USD,Sales Qty
 1006,UPC3-Description-3,Latest Week Ending 2021-10-19,4.08,2
 1006,UPC3-Description-3,Latest Week Ending 2021-10-12,2.04,1
 1006,UPC4-Description-4,Latest Week Ending 2021-11-09,2.94,3
+1006,UPC4-Description-4,Latest Week Ending 2021-11-09,3.92,4
 1006,UPC4-Description-4,Latest Week Ending 2021-11-02,3.92,4
 1006,UPC4-Description-4,Latest Week Ending 2021-10-26,1.96,2
 1006,UPC4-Description-4,Latest Week Ending 2021-10-19,1.96,2
